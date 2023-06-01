@@ -34,7 +34,7 @@ const Footer = () => {
                     <div>
                     <a href="https://www.linkedin.com/in/anivsurana"><FaLinkedin size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
                     <a href="https://www.github.com/anivsurana"><FaGithub size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
-                    <a href="https://www.instagram.com/anivsurana"><FaInstagram size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
+                    <a href="https://www.instagram.com/aniv.surana"><FaInstagram size={30} style={{ color: "#fff", marginRight: "1rem" }} /></a>
                     </div>
                 </div>
             </div>
