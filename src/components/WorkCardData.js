@@ -13,14 +13,15 @@ const ProjectCardData = [
         imgsrc: pro2,
         title: "MemoirMate",
         text: "An Android application designed using Android Studio, XML and Java. Family and friends travel diary used to store memories for family and friends to look back at.",
-        source: "https://www.github.com/anivsurana"
+        view: "https://www.youtube.com/watch?v=6jJt6fb7KJk",
+        source: "https://github.com/anivsurana/MemoirMate"
     },
     {
         imgsrc: pro3,
         title: "Into The Matrix!",
         text: "An application designed primarily using Java and OpenGL, which demonstrates different transformations of 3D objects, like translation, rotation, and scaling.",
-        view: "https://www.youtube.com/midtrac",
-        source: "https://www.github.com/anivsurana"
+        view: "https://www.youtube.com/watch?v=6jJt6fb7KJk",
+        source: "https://github.com/anivsurana/IntoTheMatrix"
     },
 ];
 
